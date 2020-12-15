@@ -1,0 +1,2 @@
+# PRACTICA10
+depuración 
